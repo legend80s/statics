@@ -1,2 +1,2 @@
 # statics
-images for other repositories
+Images for My Other Repositories
